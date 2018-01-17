@@ -1,0 +1,53 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'JobApp' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for JobApp
+platform :ios, ‘9.2’
+pod 'FoldingCell', '~> 2.0.3' 
+pod “SCLAlertView”
+pod 'IHKeyboardAvoiding'
+pod ‘SwiftyJSON’
+pod 'DateTimePicker'
+pod 'ALCameraViewController'
+source 'https://github.com/CocoaPods/Specs.git'
+pod 'Alamofire', '~> 4.4'
+pod 'Toaster', '~> 2.0'
+pod 'Kingfisher', '~> 3.0'
+pod 'NVActivityIndicatorView'
+pod 'ALCameraViewController'
+pod 'CocoaMQTT' 
+pod 'JSQMessagesViewController'
+pod 'SDWebImage', '~>3.8'
+pod 'MICountryPicker', :git => 'https://github.com/mustafaibrahim989/MICountryPicker.git', :branch => 'master'
+
+pod 'FacebookLogin'
+
+pod 'Moya/RxSwift'
+pod 'KeychainSwift'
+
+pod 'RxSwift',    '~> 3.0'
+pod 'RxCocoa',    '~> 3.0'
+
+pod 'PMSuperButton'
+pod 'SkyFloatingLabelTextField', '~> 3.0'
+pod 'AZTabBar'
+
+pod 'SearchTextField'
+
+pod 'Presentr'
+
+  target 'JobAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'JobAppUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

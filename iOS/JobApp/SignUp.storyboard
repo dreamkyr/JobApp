@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="16G29" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Sign Up View Controller-->
+        <scene sceneID="neK-c9-w1D">
+            <objects>
+                <viewController storyboardIdentifier="SignUpViewController" id="iG2-Ty-gkM" customClass="SignUpViewController" customModule="JobApp" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="UXn-Ru-08Y"/>
+                        <viewControllerLayoutGuide type="bottom" id="ze1-mP-MDS"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="2ze-nO-L0o">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="20" clearButtonMode="unlessEditing" translatesAutoresizingMaskIntoConstraints="NO" id="Fl0-BW-f3F" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
+                                <rect key="frame" x="42" y="195" width="333" height="64"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="64" id="GtA-Pw-5zv"/>
+                                </constraints>
+                                <color key="textColor" red="0.6078905463218689" green="0.60789245367050171" blue="0.60789668560028076" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="placeholderColor">
+                                        <color key="value" red="0.6078905463218689" green="0.60789245367050171" blue="0.60789668560028076" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="placeholder" value="Hi, What’s your email?"/>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="selectedLineColor">
+                                        <color key="value" red="0.6078905463218689" green="0.60789245367050171" blue="0.60789668560028076" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="titleColor">
+                                        <color key="value" red="0.6078905463218689" green="0.60789245367050171" blue="0.60789668560028076" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="lineColor">
+                                        <color key="value" red="0.91764956712722778" green="0.91765236854553223" blue="0.91765850782394409" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="selectedTitleColor">
+                                        <color key="value" red="0.54123353958129883" green="0.54123526811599731" blue="0.54123902320861816" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="20" clearButtonMode="unlessEditing" translatesAutoresizingMaskIntoConstraints="NO" id="vOd-Rs-pj7" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
+                                <rect key="frame" x="42" y="321" width="333" height="62"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="62" id="FIG-WK-688"/>
+                                </constraints>
+                                <color key="textColor" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="placeholderColor">
+                                        <color key="value" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="placeholder" value="Confirm Password"/>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="selectedLineColor">
+                                        <color key="value" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="titleColor">
+                                        <color key="value" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="lineColor">
+                                        <color key="value" red="0.91764956710000001" green="0.91765236849999998" blue="0.91765850780000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="selectedTitleColor">
+                                        <color key="value" red="0.54123353959999998" green="0.5412352681" blue="0.54123902319999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="iconIphone" translatesAutoresizingMaskIntoConstraints="NO" id="V5S-HK-0Pv">
+                                <rect key="frame" x="124" y="66" width="127" height="77"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="77" id="c4Q-eW-9uK"/>
+                                    <constraint firstAttribute="width" constant="127" id="x2N-ES-hlI"/>
+                                </constraints>
+                            </imageView>
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="20" clearButtonMode="unlessEditing" translatesAutoresizingMaskIntoConstraints="NO" id="Lvi-iB-Iwg" customClass="SkyFloatingLabelTextField" customModule="SkyFloatingLabelTextField">
+                                <rect key="frame" x="42" y="259" width="333" height="62"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="62" id="3H0-ba-CZA"/>
+                                </constraints>
+                                <color key="textColor" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="20"/>
+                                <textInputTraits key="textInputTraits" secureTextEntry="YES"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="placeholderColor">
+                                        <color key="value" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="placeholder" value="Password"/>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="selectedLineColor">
+                                        <color key="value" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="titleColor">
+                                        <color key="value" red="0.60789054629999995" green="0.6078924537" blue="0.60789668559999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="lineColor">
+                                        <color key="value" red="0.91764956710000001" green="0.91765236849999998" blue="0.91765850780000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="selectedTitleColor">
+                                        <color key="value" red="0.54123353959999998" green="0.5412352681" blue="0.54123902319999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Vy-zf-Zbq" customClass="PMSuperButton" customModule="PMSuperButton">
+                                <rect key="frame" x="205" y="416" width="117" height="52"/>
+                                <color key="backgroundColor" red="0.21279497444629669" green="0.45710542798042297" blue="0.89025843143463135" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="52" id="M4i-nM-Kjd"/>
+                                    <constraint firstAttribute="width" constant="117" id="NkJ-cc-P5G"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
+                                <state key="normal" title="Sign Up">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="12"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Efk-2L-ecd" customClass="PMSuperButton" customModule="PMSuperButton">
+                                <rect key="frame" x="42" y="59" width="56" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="ZfX-lJ-y8g"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                <state key="normal" title="Cancel"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Efk-2L-ecd" firstAttribute="top" secondItem="UXn-Ru-08Y" secondAttribute="bottom" constant="39" id="426-M1-710"/>
+                            <constraint firstItem="V5S-HK-0Pv" firstAttribute="top" secondItem="UXn-Ru-08Y" secondAttribute="bottom" constant="46" id="I6J-zn-qld"/>
+                            <constraint firstItem="0Vy-zf-Zbq" firstAttribute="top" secondItem="vOd-Rs-pj7" secondAttribute="bottom" constant="33" id="KJD-LH-x8o"/>
+                            <constraint firstItem="Efk-2L-ecd" firstAttribute="leading" secondItem="Fl0-BW-f3F" secondAttribute="leading" id="NQG-mA-91L"/>
+                            <constraint firstAttribute="trailing" secondItem="Lvi-iB-Iwg" secondAttribute="trailing" id="SLN-f4-k2w"/>
+                            <constraint firstItem="vOd-Rs-pj7" firstAttribute="leading" secondItem="2ze-nO-L0o" secondAttribute="leading" constant="42" id="Wyu-A8-ok1"/>
+                            <constraint firstAttribute="trailing" secondItem="0Vy-zf-Zbq" secondAttribute="trailing" constant="53" id="Xnv-hI-5af"/>
+                            <constraint firstItem="vOd-Rs-pj7" firstAttribute="top" secondItem="Lvi-iB-Iwg" secondAttribute="bottom" id="bLy-Gy-9JY"/>
+                            <constraint firstAttribute="trailing" secondItem="vOd-Rs-pj7" secondAttribute="trailing" id="bXW-04-4ub"/>
+                            <constraint firstAttribute="trailing" secondItem="Fl0-BW-f3F" secondAttribute="trailing" id="cEc-Of-EqD"/>
+                            <constraint firstItem="Fl0-BW-f3F" firstAttribute="leading" secondItem="2ze-nO-L0o" secondAttribute="leading" constant="42" id="eeX-nw-NjL"/>
+                            <constraint firstItem="Lvi-iB-Iwg" firstAttribute="leading" secondItem="2ze-nO-L0o" secondAttribute="leading" constant="42" id="hCl-XW-Dpf"/>
+                            <constraint firstItem="Lvi-iB-Iwg" firstAttribute="top" secondItem="Fl0-BW-f3F" secondAttribute="bottom" id="la2-Jh-Bmd"/>
+                            <constraint firstItem="Fl0-BW-f3F" firstAttribute="top" secondItem="V5S-HK-0Pv" secondAttribute="bottom" constant="52" id="nA6-JU-WMl"/>
+                            <constraint firstItem="V5S-HK-0Pv" firstAttribute="centerX" secondItem="2ze-nO-L0o" secondAttribute="centerX" id="qJh-zh-ceR"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="cancelButton" destination="Efk-2L-ecd" id="iZ6-CS-WLd"/>
+                        <outlet property="confirm" destination="vOd-Rs-pj7" id="Lcq-fq-dKF"/>
+                        <outlet property="password" destination="Lvi-iB-Iwg" id="z41-F6-kFt"/>
+                        <outlet property="signUpButton" destination="0Vy-zf-Zbq" id="e5L-vl-MnD"/>
+                        <outlet property="username" destination="Fl0-BW-f3F" id="V9B-Ap-WSF"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dMs-qr-ngA" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-98.400000000000006" y="88.605697151424295"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="iconIphone" width="127" height="77"/>
+    </resources>
+</document>

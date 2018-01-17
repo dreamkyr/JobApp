@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="12121" systemVersion="17A315i" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="yEt-aT-NBG">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12089"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Get Started View Controller-->
+        <scene sceneID="85A-m3-awM">
+            <objects>
+                <viewController storyboardIdentifier="GetStartedViewController" id="yEt-aT-NBG" customClass="GetStartedViewController" customModule="JobApp" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="HoC-2c-bjD"/>
+                        <viewControllerLayoutGuide type="bottom" id="Gex-Nl-jfc"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="bim-CO-vWC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Sign up or sign in with" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WEO-7j-AUN">
+                                <rect key="frame" x="118" y="418" width="179" height="21"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                <color key="textColor" red="0.6078905463218689" green="0.60789245367050171" blue="0.60789668560028076" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kar-cn-dWt">
+                                <rect key="frame" x="65" y="227" width="285" height="57"/>
+                                <attributedString key="attributedText">
+                                    <fragment>
+                                        <string key="content">Find and send jobs
+between people you </string>
+                                        <attributes>
+                                            <font key="NSFont" size="24" name="HelveticaNeue"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                    <fragment content="trust.">
+                                        <attributes>
+                                            <font key="NSFont" size="24" name="HelveticaNeue-Bold"/>
+                                            <paragraphStyle key="NSParagraphStyle" alignment="center" lineBreakMode="wordWrapping" baseWritingDirection="natural" tighteningFactorForTruncation="0.0"/>
+                                        </attributes>
+                                    </fragment>
+                                </attributedString>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view hidden="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="YWq-Hd-oaA">
+                                <rect key="frame" x="155" y="451" width="105" height="21"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="icons8Facebook528" translatesAutoresizingMaskIntoConstraints="NO" id="n45-4h-sfj">
+                                        <rect key="frame" x="5" y="2" width="16" height="16"/>
+                                    </imageView>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mg0-ao-jk8" customClass="PMSuperButton" customModule="PMSuperButton">
+                                        <rect key="frame" x="24" y="0.0" width="81" height="21"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="21" id="6ro-NO-dqh"/>
+                                            <constraint firstAttribute="width" constant="81" id="VIb-HO-fue"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                        <state key="normal" title="Facebook">
+                                            <color key="titleColor" red="0.26854652166366577" green="0.32543304562568665" blue="0.67459040880203247" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        </state>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="mg0-ao-jk8" firstAttribute="centerY" secondItem="YWq-Hd-oaA" secondAttribute="centerY" id="5MZ-fl-Eja"/>
+                                    <constraint firstAttribute="trailing" secondItem="mg0-ao-jk8" secondAttribute="trailing" id="OTk-bz-DmB"/>
+                                    <constraint firstAttribute="width" constant="105" id="aBb-Fa-z3b"/>
+                                    <constraint firstItem="mg0-ao-jk8" firstAttribute="centerY" secondItem="n45-4h-sfj" secondAttribute="centerY" id="f0Q-fd-bND"/>
+                                    <constraint firstAttribute="height" constant="21" id="s1S-Zz-24w"/>
+                                    <constraint firstItem="mg0-ao-jk8" firstAttribute="leading" secondItem="n45-4h-sfj" secondAttribute="trailing" constant="3" id="zn5-by-Rbe"/>
+                                </constraints>
+                            </view>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hMW-xU-YZI" customClass="PMSuperButton" customModule="PMSuperButton">
+                                <rect key="frame" x="128" y="317" width="158" height="52"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="52" id="Aj9-Je-Yh4"/>
+                                    <constraint firstAttribute="width" constant="158" id="pgV-k6-h7l"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="24"/>
+                                <state key="normal" title="Get Started">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="12"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="iconIphone" translatesAutoresizingMaskIntoConstraints="NO" id="kfG-fX-xND">
+                                <rect key="frame" x="144" y="66" width="127" height="77"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="i57-Ki-rzY">
+                                <rect key="frame" x="72" y="650" width="270" height="21"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Have an account already? " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LUK-jA-wYr">
+                                        <rect key="frame" x="0.0" y="0.0" width="215" height="33"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ipH-sf-YKj" customClass="PMSuperButton" customModule="PMSuperButton">
+                                        <rect key="frame" x="215" y="0.0" width="56" height="33"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
+                                        <state key="normal" title="Sign in"/>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="270" id="F8v-AZ-Sd4"/>
+                                    <constraint firstAttribute="height" constant="21" id="wyy-au-Ag4"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="YWq-Hd-oaA" firstAttribute="centerX" secondItem="kfG-fX-xND" secondAttribute="centerX" id="HVe-sd-TOW"/>
+                            <constraint firstItem="hMW-xU-YZI" firstAttribute="centerX" secondItem="WEO-7j-AUN" secondAttribute="centerX" id="KYQ-N4-wnr"/>
+                            <constraint firstItem="kar-cn-dWt" firstAttribute="centerX" secondItem="bim-CO-vWC" secondAttribute="centerX" id="PSl-Ln-92e"/>
+                            <constraint firstItem="kfG-fX-xND" firstAttribute="top" secondItem="HoC-2c-bjD" secondAttribute="bottom" constant="46" id="S6O-bl-wfe"/>
+                            <constraint firstItem="hMW-xU-YZI" firstAttribute="top" secondItem="kar-cn-dWt" secondAttribute="bottom" constant="33" id="SLp-0n-l6M"/>
+                            <constraint firstItem="YWq-Hd-oaA" firstAttribute="top" secondItem="WEO-7j-AUN" secondAttribute="bottom" constant="12" id="UTJ-5T-9i7"/>
+                            <constraint firstItem="YWq-Hd-oaA" firstAttribute="centerX" secondItem="kar-cn-dWt" secondAttribute="centerX" id="cNd-89-nNM"/>
+                            <constraint firstItem="WEO-7j-AUN" firstAttribute="top" secondItem="hMW-xU-YZI" secondAttribute="bottom" constant="49" id="cba-fF-DSg"/>
+                            <constraint firstItem="i57-Ki-rzY" firstAttribute="centerX" secondItem="YWq-Hd-oaA" secondAttribute="centerX" id="eEu-3S-PlH"/>
+                            <constraint firstItem="Gex-Nl-jfc" firstAttribute="top" secondItem="i57-Ki-rzY" secondAttribute="bottom" constant="65" id="eLy-15-dgY"/>
+                            <constraint firstItem="kar-cn-dWt" firstAttribute="top" secondItem="kfG-fX-xND" secondAttribute="bottom" constant="84" id="ejR-2A-Rcj"/>
+                            <constraint firstItem="YWq-Hd-oaA" firstAttribute="centerX" secondItem="WEO-7j-AUN" secondAttribute="centerX" id="sYc-ap-Ozp"/>
+                        </constraints>
+                    </view>
+                    <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+                    <connections>
+                        <outlet property="facebookButton" destination="mg0-ao-jk8" id="LqP-jJ-Qjo"/>
+                        <outlet property="getStartedButton" destination="hMW-xU-YZI" id="As2-6Z-Rgd"/>
+                        <outlet property="signInButton" destination="ipH-sf-YKj" id="6ZY-Zg-p5W"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Tbd-Vg-joF" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="117.39130434782609" y="104.34782608695653"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="iconIphone" width="127" height="77"/>
+        <image name="icons8Facebook528" width="16" height="16"/>
+    </resources>
+</document>

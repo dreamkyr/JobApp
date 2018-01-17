@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6269126-a579-4b1b-a5be-bb22c3e5712f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/02-findjob.imageset/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/03-postjob.imageset/post jobs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/04-chat.imageset/message-on-phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/05-settings.imageset/Button-settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/network.imageset/network.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/bidicon-w.imageset/bidicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/checkbtn.imageset/checked copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-b.imageset/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon.imageset/email.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/multiicon.imageset/cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/passwordicon-b.imageset/passwordicon-b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-b.imageset/phone-call.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon.imageset/phone-call.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/plusicon.imageset/add-circular-button-outline-with-plus-sign.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/profileicon.imageset/profile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/showpassword.imageset/eye-shape-variant.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-b.imageset/sms.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-w.imageset/speech-bubble.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-b.imageset/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-w.imageset/chat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-b-1.imageset/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-b.imageset/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-b.imageset/post jobs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-w.imageset/post jobs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/uncheckbtn.imageset/checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/network.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/bidicon-w.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-bb.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-w.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/multiicon1.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/passwordicon-b.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-bb.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-w.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/profileicon-w.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/showpassword.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-bb.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-ww.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-bb.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-ww.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-b-1.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-bb.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-bb.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-ww.imageset/Contents.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/02-findjob.imageset/02-findjob.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/03-postjob.imageset/03-postjob.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/04-chat.imageset/04-chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/05-settings.imageset/engineering.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/checkbtn.imageset/checkbtn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/plusicon.imageset/plusicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/uncheckbtn.imageset/uncheck.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-b.imageset/emailicon-b.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-bb.imageset/emailicon-b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon.imageset/emailicon.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-w.imageset/emailicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/multiicon.imageset/multiicon.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/multiicon1.imageset/multiicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-b.imageset/phoneicon-b.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-bb.imageset/phoneicon-b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon.imageset/phoneicon.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-w.imageset/phoneicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/profileicon.imageset/profileicon.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/profileicon-w.imageset/profileicon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-b.imageset/smsicon-b.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-bb.imageset/smsicon-b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-w.imageset/smsicon-w.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-ww.imageset/smsicon-w.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-b.imageset/tabchaticon-b.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-bb.imageset/tabchaticon-b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-w.imageset/tabchaticon-w.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-ww.imageset/tabchaticon-w.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-b.imageset/tabfindjobicon-b.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-bb.imageset/tabfindjobicon-b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-w.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-ww.imageset/Contents.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-w.imageset/tabfindjobicon-w.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-ww.imageset/tabfindjobicon-w.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-b.imageset/tabreferjobicon-b.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-bb.imageset/tabreferjobicon-b.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-w.imageset/tabreferjobicon-w.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-ww.imageset/tabreferjobicon-w.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp.xcworkspace/xcuserdata/admin.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/JobApp.xcworkspace/xcuserdata/admin.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/bidicon.imageset/bidicon.png" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/bidicon.imageset/bidicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/02-findjob.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/02-findjob.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/03-postjob.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/03-postjob.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/04-chat.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/04-chat.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/05-settings.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/Tabbar/05-settings.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/checkbtn.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/checkbtn.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-b.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon-b.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/emailicon.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/multiicon.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/multiicon.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-b.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon-b.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/phoneicon.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/plusicon.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/plusicon.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/profileicon.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/profileicon.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-b.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-b.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-w.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/smsicon-w.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-b.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-b.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-w.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabchaticon-w.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-b.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabfindjobicon-b.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-b.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-b.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-w.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/tabreferjobicon-w.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Assets.xcassets/uncheckbtn.imageset/Contents.json" afterPath="$PROJECT_DIR$/JobApp/Assets.xcassets/uncheckbtn.imageset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/Base.lproj/Main.storyboard" afterPath="$PROJECT_DIR$/JobApp/Base.lproj/Main.storyboard" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/ChatListViewController.swift" afterPath="$PROJECT_DIR$/JobApp/ChatListViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/ContactRootViewController.swift" afterPath="$PROJECT_DIR$/JobApp/ContactRootViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/ContactsCell.swift" afterPath="$PROJECT_DIR$/JobApp/ContactsCell.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/ContactsViewController.swift" afterPath="$PROJECT_DIR$/JobApp/ContactsViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/FindJobViewController.swift" afterPath="$PROJECT_DIR$/JobApp/FindJobViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/LoginViewController.swift" afterPath="$PROJECT_DIR$/JobApp/LoginViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/NoContactsCell.swift" afterPath="$PROJECT_DIR$/JobApp/NoContactsCell.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/NoContactsViewController.swift" afterPath="$PROJECT_DIR$/JobApp/NoContactsViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/ReferedJobsViewController.swift" afterPath="$PROJECT_DIR$/JobApp/ReferedJobsViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/RootViewController.swift" afterPath="$PROJECT_DIR$/JobApp/RootViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/SettingViewController.swift" afterPath="$PROJECT_DIR$/JobApp/SettingViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/SignUpViewController.swift" afterPath="$PROJECT_DIR$/JobApp/SignUpViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JobApp/VerificationViewController.swift" afterPath="$PROJECT_DIR$/JobApp/VerificationViewController.swift" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/Pods/Pods.xcodeproj/xcuserdata/admin.xcuserdatad/xcschemes/xcschememanagement.plist" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos" />
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobApp" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobApp" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JobApp" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JobApp">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="JobApp" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="JobApp" TARGET_NAME="JobApp" CONFIG_NAME="Debug" SCHEME_NAME="JobApp" RUN_TARGET_PROJECT_NAME="JobApp" RUN_TARGET_NAME="JobApp" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.JobApp" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6269126-a579-4b1b-a5be-bb22c3e5712f" name="Default" comment="" />
+      <created>1499634880943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499634880943</updated>
+      <workItem from="1499634882554" duration="1258000" />
+      <workItem from="1499756368633" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="815" extended-state="0" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25369978" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3305671" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JobApp/ProfileSettingViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1247">
+          <caret line="94" column="33" lean-forward="false" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

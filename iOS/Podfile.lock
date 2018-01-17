@@ -1,0 +1,138 @@
+PODS:
+  - Alamofire (4.5.0)
+  - ALCameraViewController (1.4.0)
+  - AZTabBar (1.2.2):
+    - EasyNotificationBadge
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - CocoaAsyncSocket (7.5.1):
+    - CocoaAsyncSocket/GCD (= 7.5.1)
+  - CocoaAsyncSocket/GCD (7.5.1)
+  - CocoaMQTT (1.0.19):
+    - CocoaAsyncSocket (~> 7.5.1)
+    - SwiftyTimer (~> 2.0.0)
+  - DateTimePicker (1.1.2)
+  - EasyNotificationBadge (1.0.3)
+  - FacebookCore (0.2.0):
+    - Bolts (~> 1.8)
+    - FBSDKCoreKit (~> 4.15)
+  - FacebookLogin (0.2.0):
+    - Bolts (~> 1.8)
+    - FacebookCore (~> 0.2)
+    - FBSDKCoreKit (~> 4.15)
+    - FBSDKLoginKit (~> 4.15)
+  - FBSDKCoreKit (4.25.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.25.0):
+    - FBSDKCoreKit
+  - FoldingCell (2.0.5)
+  - IHKeyboardAvoiding (4.0)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - KeychainSwift (8.0.2)
+  - Kingfisher (3.10.4)
+  - MICountryPicker (0.2.2)
+  - Moya/Core (8.0.5):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (8.0.5):
+    - Moya/Core
+    - RxSwift (~> 3.0)
+  - NVActivityIndicatorView (3.7.0):
+    - NVActivityIndicatorView/Presenter (= 3.7.0)
+  - NVActivityIndicatorView/Presenter (3.7.0)
+  - PMSuperButton (1.0.0)
+  - Presentr (1.2.3)
+  - Result (3.2.3)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+  - SCLAlertView (0.7.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SearchTextField (1.1.3)
+  - SkyFloatingLabelTextField (3.2.0)
+  - SwiftyJSON (3.1.4)
+  - SwiftyTimer (2.0.0)
+  - Toaster (2.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - ALCameraViewController
+  - AZTabBar
+  - CocoaMQTT
+  - DateTimePicker
+  - FacebookLogin
+  - FoldingCell (~> 2.0.3)
+  - IHKeyboardAvoiding
+  - JSQMessagesViewController
+  - KeychainSwift
+  - Kingfisher (~> 3.0)
+  - MICountryPicker (from `https://github.com/mustafaibrahim989/MICountryPicker.git`, branch `master`)
+  - Moya/RxSwift
+  - NVActivityIndicatorView
+  - PMSuperButton
+  - Presentr
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+  - SCLAlertView
+  - SDWebImage (~> 3.8)
+  - SearchTextField
+  - SkyFloatingLabelTextField (~> 3.0)
+  - SwiftyJSON
+  - Toaster (~> 2.0)
+
+EXTERNAL SOURCES:
+  MICountryPicker:
+    :branch: master
+    :git: https://github.com/mustafaibrahim989/MICountryPicker.git
+
+CHECKOUT OPTIONS:
+  MICountryPicker:
+    :commit: 43a40241da087c81c4f26715283c12ac1335ebb2
+    :git: https://github.com/mustafaibrahim989/MICountryPicker.git
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  ALCameraViewController: 8311f17d3dc2c24ab7d81a3a3b288dcdf210c5cf
+  AZTabBar: d8ea0226e4ba91156940600088c2e505b5444211
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  CocoaAsyncSocket: e0a7e93b2ffa411592ff87e58524fbbc9b95b4fa
+  CocoaMQTT: 014fd1f0793d376b207073ebb5b92a0c8bf8eb2e
+  DateTimePicker: 518bffa5438ef83a7a687cc4d5e187e5c12012b8
+  EasyNotificationBadge: 7da13ae3e2f139ee458461983d960a45f231f94c
+  FacebookCore: 2cb3f0fbff218e9d3119cec84bae983b232412de
+  FacebookLogin: c9d606504735780a9e3002465a615512e0a691a5
+  FBSDKCoreKit: 53e3f4bfb64e80c5f229dd30ae33ff57fbbbd2d1
+  FBSDKLoginKit: f628c09684dae9c17f071cf90b014e886f5093ea
+  FoldingCell: fb189fc746e95b722a1debf8ef455006b70cae2e
+  IHKeyboardAvoiding: d1063551a2bed47cdbeab255e3aa5d7847d7efa8
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  KeychainSwift: 213db04dfe7244988e61f77c72a2afb2f775954a
+  Kingfisher: dc3a4983e86d2dfa89513664983a82340c11a289
+  MICountryPicker: 82122c5f918bc9f9e2c510793fffd188dc8d38ce
+  Moya: c37eec09a098ba9991b5a963b291fc5704bdb9ef
+  NVActivityIndicatorView: d3738df7e2e476aca0ba6bf32a8c9fbcfc33d64b
+  PMSuperButton: e107f6817c0e001155af6cfce24da6a708cd8215
+  Presentr: a21c7bbb3532c8ff60320e235c0a4869e72f8885
+  Result: 128640a6347e8d2ae48b142556739a2d13f90ce6
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SearchTextField: fb85b5c0650e674d10042f807d350f2d59c70b0d
+  SkyFloatingLabelTextField: 4e2d2f7160af660ed1da6bb9d0027b5c474b4b79
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  SwiftyTimer: 2efd74b060d69ad4f1496baf5bbedbe132125fcf
+  Toaster: f13031c636ef065281bc11857be9a16c7659e04f
+
+PODFILE CHECKSUM: 7f271473ce26423fba476dd054a1f73e9a947115
+
+COCOAPODS: 1.1.0.rc.2

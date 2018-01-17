@@ -1,0 +1,16 @@
+extends layout
+
+block content
+  h1= subject
+  h3= 'Current Employment Job Title'
+  p #{profile.job_title}.
+  h3= 'Past Employment Job Titles'
+  for org in profile.orgnizations
+    li= org.name + ' - ' + org.major
+  h3= 'Education'
+  for education in profile.courses
+    li= education.name + ' - ' + education.major
+  h3= 'Contact information' 
+  p E-mail: #{email}
+  p Phone: #{phone}
+
